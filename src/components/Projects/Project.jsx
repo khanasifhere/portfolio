@@ -28,7 +28,7 @@ export default function Project(){
                 </div>
                 <div className=" bg-slate-500 rounded-2xl w-1/4 text-white ">
                     <div className="p-10 pb-3">
-                        <a target="_blank" href="https://portfolio-iota-indol-12.vercel.app/about"><img className="rounded-3xl" src={pfl} alt="" /></a></div>
+                        <a target="_blank" href="https://portfolio-iota-indol-12.vercel.app"><img className="rounded-3xl" src={pfl} alt="" /></a></div>
                     <div>Portfolio</div>
                 
                     <div className="underline text-red-900 hover:text-red-600 "><a href="https://github.com/khanasifhere/portfolio" target="_blank">github link</a></div>
