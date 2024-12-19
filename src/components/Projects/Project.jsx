@@ -32,7 +32,7 @@ export default function Project(){
                     <div>Portfolio</div>
                 
                     <div className="underline text-red-900 hover:text-red-600 "><a href="https://github.com/khanasifhere/portfolio" target="_blank">github link</a></div>
-                    <div className="underline text-red-900 hover:text-red-600 "><a  href="https://portfolio-iota-indol-12.vercel.app/about" target="_blank">vercel link</a></div>
+                    <div className="underline text-red-900 hover:text-red-600 "><a  href="https://portfolio-iota-indol-12.vercel.app" target="_blank">vercel link</a></div>
                 </div>
                 
             
